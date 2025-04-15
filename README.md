@@ -1,6 +1,5 @@
 # Data Analyst
 
-**Cell:** +1 302-668-7112  
 **Email:** [jacobwei2020@google.com](mailto:jacobwei2020@google.com)  
 **LinkedIn:** [linkedin.com/in/jacobwei](https://www.linkedin.com/in/jacobwei)  
 **Address:** Newark, Delaware 19702, USA
